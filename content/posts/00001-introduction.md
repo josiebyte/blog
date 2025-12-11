@@ -1,7 +1,7 @@
 ---
 title: 'Introduction'
 date: '2025-12-11T13:15:15+01:00'
-tags: [""]
+tags: ["introduction"]
 author: "Josiebytes"
 showToc: false
 TocOpen: false
