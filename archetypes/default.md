@@ -2,13 +2,12 @@
 title: '{{ replace .File.ContentBaseName "-" " " | title }}'
 date: '{{ .Date }}'
 tags: [""]
-author: "Josiebyte"
+author: "Josiebytes"
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: true
@@ -28,7 +27,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: 'https://github.com/Josiebyte/{{.File.ContentBaseName}}'
+    URL: 'https://github.com/Josiebytes/{{.File.ContentBaseName}}'
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---

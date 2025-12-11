@@ -74,10 +74,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/josiebyte"
+      url: "https://github.com/josiebytes"
 
 
   cover:
@@ -86,7 +84,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/josiebyte/blog/content"
+    URL: "https://github.com/josiebytes/blog/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
