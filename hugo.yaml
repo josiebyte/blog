@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to my blog! If you want to contact me you can send me an email at josie@josiebytes.com :D
 
   socialIcons:
     - name: github
